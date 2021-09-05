@@ -25,8 +25,6 @@ ___
 </br>
 
 ## Repo Statistik
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=KAIZEN-BOT&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=KaizenMusic&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=tgvc-King&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Manager-King&theme=nightowl)
 
