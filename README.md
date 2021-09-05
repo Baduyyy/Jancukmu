@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Jancukmu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm kaizen
 
-<!---
-Jancukmu/Jancukmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Let's connect!
+<p>
+    <a href="https://t.me/zaenmad" target="blank"><img src="https://img.shields.io/badge/@zaenmad-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/kaizensupport/" target="blank"><img src="https://img.shields.io/badge/@kaizensupport-30302f?style=flat&logo=telegram" /></a>
+</p>
 
-github.com/jancukmu
+___
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+___
