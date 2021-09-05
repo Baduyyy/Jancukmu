@@ -24,6 +24,10 @@ ___
 [<img align="left" alt="Connect on Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Jancukmu)
 </br>
 
+## Stats 
+<p align="center"><a href="https://github.com/eluserbot"><img src="https://github-readme-stats.vercel.app/api?username=eluserbot&show_icons=true&theme=radical"></a></p>
+
+
 ### Languages and Tools :
 [<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 </br>
